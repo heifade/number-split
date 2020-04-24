@@ -4,16 +4,12 @@
   "description": "",
   "main": "dist/index.js",
   "typings": "typings/index.d.ts",
-  "bin": {
-    "number-split": "./bin/index.js"
-  },
   "scripts": {
     "test": "nyc mocha",
     "start": "ts-node ./src/index.ts",
     "build": "webpack --config webpack.config.ts"
   },
   "files": [
-    "bin",
     "dist",
     "typings"
   ],
