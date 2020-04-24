@@ -1,6 +1,6 @@
 {
   "name": "number-split",
-  "version": "1.0.0-beta1",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "typings": "typings/index.d.ts",
