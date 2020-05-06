@@ -1,6 +1,6 @@
 import { expect } from "chai";
 import "mocha";
-import { numberSplit } from "../src/numberSplit";
+import { numberSplit } from "../src";
 
 describe("numberSplit", function () {
   it("numberSplit >=0 ", () => {

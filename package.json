@@ -1,6 +1,6 @@
 {
   "name": "number-split",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "typings": "typings/index.d.ts",
@@ -18,12 +18,10 @@
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.2.7",
-    "@types/lodash": "^4.14.150",
     "@types/mocha": "^5.2.7",
     "@types/node": "^13.1.8",
     "@types/webpack": "^4.41.2",
     "chai": "^4.2.0",
-    "lodash": "^4.17.15",
     "mocha": "^7.0.0",
     "nyc": "^15.0.0",
     "ts-loader": "^6.2.1",
