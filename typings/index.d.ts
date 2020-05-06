@@ -1,2 +1,3 @@
 import { numberSplit } from "./numberSplit";
-export { numberSplit };
+import { toFixed } from "./toFixed";
+export { numberSplit, toFixed };
